@@ -10,9 +10,9 @@ A real-time chat application built using Python, Socket Programming, and Tkinter
 ✔️ Exit Handling – Proper cleanup when a user leaves the chat.
 
 🛠 Tech Stack
-Programming Language: Python 🐍
-GUI Framework: Tkinter 🎨
-Networking: Sockets & Threading 🌐
+ Programming Language: Python 🐍
+ GUI Framework: Tkinter 🎨
+ Networking: Sockets & Threading 🌐
 
 🔧 How It Works
 1️⃣ Start the server:
@@ -27,9 +27,9 @@ python chat_client_gui.py
 
 📂 Project Structure
 📦 Chat-Application
-├── 📜 chat_client_gui.py 
-├── 📜 chat_server_gui.py  
-└── 📜 README.md  
+ ├── 📜 chat_client_gui.py 
+ ├── 📜 chat_server_gui.py  
+ └── 📜 README.md  
 
 📝 Future Improvements
 🚀 Add support for file sharing
