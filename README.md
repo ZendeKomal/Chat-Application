@@ -27,9 +27,9 @@ python chat_client_gui.py
 
 📂 Project Structure
 📦 Chat-Application
- ├── 📜 chat_client_gui.py 
- ├── 📜 chat_server_gui.py  
- └── 📜 README.md  
+- ├── 📜 chat_client_gui.py 
+- ├── 📜 chat_server_gui.py  
+- └── 📜 README.md  
 
 📝 Future Improvements
 🚀 Add support for file sharing
